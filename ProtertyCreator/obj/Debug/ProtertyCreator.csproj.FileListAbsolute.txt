@@ -1,0 +1,16 @@
+D:\ZedProject\AttributeCreater\ProtertyCreator\ProtertyCreator\obj\Debug\ProtertyCreator.csproj.AssemblyReference.cache
+D:\ZedProject\AttributeCreater\ProtertyCreator\ProtertyCreator\obj\Debug\MainWindow.g.cs
+D:\ZedProject\AttributeCreater\ProtertyCreator\ProtertyCreator\obj\Debug\App.g.cs
+D:\ZedProject\AttributeCreater\ProtertyCreator\ProtertyCreator\obj\Debug\ProtertyCreator_MarkupCompile.cache
+D:\ZedProject\AttributeCreater\ProtertyCreator\ProtertyCreator\obj\Debug\ProtertyCreator_MarkupCompile.lref
+D:\ZedProject\AttributeCreater\ProtertyCreator\ProtertyCreator\bin\Debug\ProtertyCreator.exe.config
+D:\ZedProject\AttributeCreater\ProtertyCreator\ProtertyCreator\bin\Debug\ProtertyCreator.exe
+D:\ZedProject\AttributeCreater\ProtertyCreator\ProtertyCreator\bin\Debug\ProtertyCreator.pdb
+D:\ZedProject\AttributeCreater\ProtertyCreator\ProtertyCreator\obj\Debug\MainWindow.baml
+D:\ZedProject\AttributeCreater\ProtertyCreator\ProtertyCreator\obj\Debug\ProtertyCreator.g.resources
+D:\ZedProject\AttributeCreater\ProtertyCreator\ProtertyCreator\obj\Debug\ProtertyCreator.Properties.Resources.resources
+D:\ZedProject\AttributeCreater\ProtertyCreator\ProtertyCreator\obj\Debug\ProtertyCreator.csproj.GenerateResource.cache
+D:\ZedProject\AttributeCreater\ProtertyCreator\ProtertyCreator\obj\Debug\ProtertyCreator.csproj.CoreCompileInputs.cache
+D:\ZedProject\AttributeCreater\ProtertyCreator\ProtertyCreator\obj\Debug\ProtertyCreator.exe
+D:\ZedProject\AttributeCreater\ProtertyCreator\ProtertyCreator\obj\Debug\ProtertyCreator.pdb
+D:\ZedProject\AttributeCreater\ProtertyCreator\ProtertyCreator\obj\Debug\ProtertyCreator.csproj.SuggestedBindingRedirects.cache
